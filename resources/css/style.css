@@ -32,3 +32,10 @@ h3 {
 .sub-text {
   font-size: 14px;
 }
+
+.design {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
